@@ -183,7 +183,7 @@ input[type="week"] {
   margin: 0;
   padding: 2px 3px;
   text-align: left;
-  font-size: 13px;
+  font-size: 11px;
   font-family: Arial, "Liberation Sans", FreeSans, sans-serif;
   height: 1.8em;
   vertical-align: top;
@@ -380,7 +380,7 @@ optgroup::-moz-focus-inner {
   border-color: #848484 #c1c1c1 #e1e1e1;
   color: black;
   padding: 2px 3px 1px;
-  font-size: 13px;
+  font-size: 11px;
   font-family: Arial, sans-serif;
   vertical-align: top;
 }
@@ -511,8 +511,8 @@ tr.even.priority-lowest td {
 }
 
 body {
-  font: normal 14px/1.5 'Open Sans', sans-serif;
-  font-size: 14px;
+  font: normal 11px/1.5 'Open Sans', sans-serif;
+  font-size: 11px;
   color: #484848;
 }
 
@@ -548,6 +548,7 @@ code {
 }
 
 #top-menu {
+  font-size: 13px;
   background: #2d2d2d;
   height: auto;
   *zoom: 1;
