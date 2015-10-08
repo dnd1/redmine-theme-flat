@@ -584,7 +584,8 @@ code {
   margin: 0 20px 2px 9px;
 }
 #header > h1:before {
-  content: url("../images/logo.png");
+  /*content: url("../images/logo.png");*/
+  content: url("../images/logo-color-resized.png");
   vertical-align: middle;
   margin: 0 29px 0 0;
 }
